@@ -19,12 +19,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=flat-square)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=fff&style=flat-square)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat-square)  
-## 📊 Stats
-![Syoubunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syoubunn&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syoubunn&layout=compact&theme=radical&hide_border=true)
-
-## 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Syoubunn&theme=radical&no-frame=true&no-bg=true)
 
 “风把声音吹得很远，我刚好听见自己的心跳。”
 
